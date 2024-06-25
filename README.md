@@ -10,8 +10,8 @@ Este projeto implementa e compara dois algoritmos para calcular a distância de 
 
 Para compilar o projeto, navegue até o diretório do projeto e execute o comando `make`:
 
-```sh
 make
 
-## Execução
 Para executar o programa, utilize o seguinte comando:
+
+./main
