@@ -13,4 +13,5 @@ Para compilar o projeto, navegue até o diretório do projeto e execute o comand
 ```sh
 make
 
+Depois execute o projeto com: 
 ./main
